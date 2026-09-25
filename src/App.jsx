@@ -1,10 +1,10 @@
-import ApiFetchData from './ApiFetchData.jsx'
+import Fetch2 from './Fetch2.jsx'
 
 function App(){
 
 return(<>
 
-<ApiFetchData/>
+<Fetch2/>
 </>)
 }
 
